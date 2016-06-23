@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CD期末考週 網頁 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-06-23T11:39:11+08:00</updated><entry><title>40123226 final 報告</title><link href="./40123226-final-bao-gao.html" rel="alternate"></link><updated>2016-06-23T11:39:11+08:00</updated><author><name>40123226</name></author><id>tag:,2016-06-23:./40123226-final-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 final 協同專案&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CD期末考週 網頁 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-06-23T11:43:38+08:00</updated><entry><title>40123214 final 報告</title><link href="./40123214-final-bao-gao.html" rel="alternate"></link><updated>2016-06-23T11:43:38+08:00</updated><author><name>40123214</name></author><id>tag:,2016-06-23:./40123214-final-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 final 協同專案&lt;/p&gt;
+
+
+&lt;p&gt;final心得
+先導入零件SG
+&lt;img src="http://i.imgur.com/ZHoKB4P.png" width="100%" /&gt;
+齒輪在SG圖示那裏新增&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/saEn2vG.png" width="100%" /&gt;
+圖中紅框所圈選之處為齒輪各項數值&lt;/p&gt;
+&lt;p&gt;模數,齒數,壓力角,節圓直徑等&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/saEn2vG.png" width="100%" /&gt;
+依照組員人數以第一人為17齒第二人為19齒依此類推&lt;/p&gt;
+&lt;p&gt;如下圖所示,必須把工件設定成公開並且分享到組長那裏&lt;/p&gt;
+&lt;p&gt;方可在同一帳號完成組立工作&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/JpTHi9R.png" width="100%" /&gt;&lt;/p&gt;
+&lt;p&gt;如下圖所示,建立一個新倉儲並且都在README.md裡修改內容
+修改內容,各組員各自將自己學號及各週心得貼上在README.md
+在各自進行上傳
+&lt;img src="http://i.imgur.com/czzKaq8.png" width="100%" /&gt;
+如下圖所示,完成上傳後READ.md顯示各組員其心得及3D組立圖
+&lt;img src="http://i.imgur.com/ia8Nc7X.png" width="100%" /&gt;
+3D組立圖
+&lt;img src="http://i.imgur.com/cGzWT6v.png" width="100%" /&gt;&lt;/p&gt;</summary><category term="40123214"></category><category term="final"></category></entry><entry><title>40123226 final 報告</title><link href="./40123226-final-bao-gao.html" rel="alternate"></link><updated>2016-06-23T11:42:29+08:00</updated><author><name>40123226</name></author><id>tag:,2016-06-23:./40123226-final-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 final 協同專案&lt;/p&gt;
 
 
 &lt;p&gt;final心得&lt;/p&gt;
@@ -12,7 +34,7 @@
 &lt;p&gt;&lt;img src="http://i.imgur.com/FL4FVUw.png" width="100%" /&gt;&lt;/p&gt;
 &lt;p&gt;如下圖所示,建立一個新倉儲並且都在README.md裡修改內容&lt;/p&gt;
 &lt;p&gt;&lt;img src="http://i.imgur.com/vUT2lYW.png" width="100%" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://i.imgur.com/WpmnwVf.png" width="100%" /&gt;&lt;/p&gt;</summary><category term="40123226"></category><category term="final"></category></entry><entry><title>40123232 final 報告</title><link href="./40123232-final-bao-gao.html" rel="alternate"></link><updated>2016-06-23T11:28:11+08:00</updated><author><name>40123232</name></author><id>tag:,2016-06-23:./40123232-final-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 final 協同專案&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/WpmnwVf.png" width="100%" /&gt;&lt;/p&gt;</summary><category term="40123226"></category><category term="final"></category></entry><entry><title>40123232 final 報告</title><link href="./40123232-final-bao-gao.html" rel="alternate"></link><updated>2016-06-23T11:42:29+08:00</updated><author><name>40123232</name></author><id>tag:,2016-06-23:./40123232-final-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 final 協同專案&lt;/p&gt;
 
 
 &lt;p&gt;final心得&lt;/p&gt;
@@ -29,7 +51,7 @@
 &lt;img src="http://i.imgur.com/YAll0Ud.png" width="100%" /&gt;&lt;/p&gt;
 &lt;p&gt;如下圖所示,建立一個新倉儲並且都在README.md裡修改內容&lt;/p&gt;
 &lt;p&gt;&lt;img src="http://i.imgur.com/vUT2lYW.png" width="100%" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://i.imgur.com/WpmnwVf.png" width="100%" /&gt;&lt;/p&gt;</summary><category term="40123232"></category><category term="final"></category></entry><entry><title>40123235 final 報告</title><link href="./40123235-final-bao-gao.html" rel="alternate"></link><updated>2016-06-23T11:19:37+08:00</updated><author><name>40123235</name></author><id>tag:,2016-06-23:./40123235-final-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 final 協同專案&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/WpmnwVf.png" width="100%" /&gt;&lt;/p&gt;</summary><category term="40123232"></category><category term="final"></category></entry><entry><title>40123235 final 報告</title><link href="./40123235-final-bao-gao.html" rel="alternate"></link><updated>2016-06-23T11:42:29+08:00</updated><author><name>40123235</name></author><id>tag:,2016-06-23:./40123235-final-bao-gao.html</id><summary type="html">&lt;p&gt;啟動 final 協同專案&lt;/p&gt;
 
 
 &lt;p&gt;final心得&lt;/p&gt;
