@@ -20,11 +20,14 @@
 <v t="amd.20160501220029.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="amd.20160501220029.2"><vh>@button local pelican</vh></v>
 </v>
-<v t="amd.20160501215942.1"><vh>@path content/b/g2</vh></v>
+<v t="amd.20160501215942.1" a="E"><vh>@path content/b/g2</vh>
+<v t="leo.20160623103826.1"><vh>@edit 40123235_final.md</vh></v>
+</v>
 </v>
 </v>
 </v>
 <v t="amd.20160501215545.1" a="E"><vh>wsgi 程式部份</vh>
+<v t="leo.20160623103727.1"><vh>@edit bg2_40123235.py</vh></v>
 <v t="amd.20160501221015.1" a="E"><vh>@path ./../../../</vh>
 <v t="amd.20160501221001.1" a="E"><vh>@clean myflaskapp.py</vh>
 <v t="amd.20160501221001.2"><vh>myflaskapp declarations</vh></v>
@@ -113,7 +116,7 @@ g.es("admin pelican 近端執行完畢")
 if __name__ == "__main__":
     app.run()
 
-</t>
+app.register_blueprint(users.b.g2.bg2_40123235.b40123235_1)</t>
 <t tx="amd.20160501221001.10">@app.route('/fileaxupload', methods=['POST'])
 # ajax jquery chunked file upload for flask
 def fileaxupload():
@@ -246,6 +249,7 @@ import math
 import os
 # init.py 為自行建立的起始物件
 import init
+import users.b.g2.bg2_40123235
 
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
 _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))

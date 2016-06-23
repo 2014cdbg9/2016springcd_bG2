@@ -1,5 +1,7 @@
 # 2016springcd_bG2
 
+#3D:https://cad.onshape.com/documents/f4e2b46552e7c255bb8f4995/w/1576a0c0b3d5cd2cf64f73f7/e/7e332d2f38be708565c670f8
+
 40123235:
 
 心得:
